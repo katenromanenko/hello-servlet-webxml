@@ -72,3 +72,9 @@ logs/*
 *.log.*
 !ceph-lib-app-1.0.0-jar-with-dependencies.jar
 /LOG_PATH_IS_UNDEFINED/
+
+/target/
+/.idea/
+/.smarttomcat/
+/.SmartTomcat/
+/*.iml
